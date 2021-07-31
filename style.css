@@ -1,0 +1,62 @@
+.header{
+    text-align: center;
+    background-color: grey;
+    box-shadow: 8px 8px 8px blue;
+    width: 100%;
+}
+.head_label{
+    font-size: 23px;
+    color: white;
+}
+.objects_lists{
+    text-align: center;
+    background-color: white;
+    width: 800px;
+    border-radius: 10px;
+    margin-left: 350px;
+}
+.objects_label{
+    font-size: 20px;
+    color: black;
+}
+.objects{
+    border-radius: 5px;
+    color: white;
+    background-color: red;
+    font-size: 20px;
+    padding: 5px;
+}
+#family_mem{
+    background-color: red;
+    margin-left: 650px; 
+    font-size: 20px;
+    width: 200px;
+    border-radius: 10px;
+    padding: 3px;
+    text-align: center;
+}
+#family_accuracy{
+    background-color: red;
+    margin-left: 650px; 
+    font-size: 20px;
+    width: 200px;
+    border-radius: 10px;
+    padding: 3px;
+    text-align: center;
+}
+canvas{
+   border: 5px dashed black;
+   border-radius: 20px;
+   margin-top: 150px;
+   width: 350px;
+   height: 350px;
+}
+.copy_right_footer{
+ position: fixed;
+ bottom: 0;
+ width: 100%;
+ background-color: grey;
+ text-align: center;
+ line-height: 3;
+ color: white;
+}
